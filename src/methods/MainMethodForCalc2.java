@@ -15,6 +15,7 @@ public class MainMethodForCalc2 {
 
 		int res=Calc2.natSum4(15);
 		System.out.println("Sum of  natural number is "+res);
+		
 
 	}
 
